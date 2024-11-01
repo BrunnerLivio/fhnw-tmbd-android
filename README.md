@@ -2,4 +2,6 @@
 
 FHNW school project for EMOBA
 
-![](./preview.mp4)
+
+https://github.com/user-attachments/assets/7351227f-a704-4296-bcfe-c88a0c776793
+
